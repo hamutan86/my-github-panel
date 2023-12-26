@@ -4,6 +4,13 @@
   border-radius: 5px;
 }
 
+.icon {
+  display: inline-block;
+  height: 1em;
+  width: auto;
+  transform: translate(0, 0.1em);
+}
+
 #panel > p{
   color: white;
 }
