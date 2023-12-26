@@ -35,10 +35,6 @@ h2 {
   color: white;
 }
 
-#website:link {
+#website:link, #website:visited, #website:hover, #website:active{
   color: #0000EE;
-}
-
-#website:visited {
-  color: #551a8b
 }
