@@ -5,10 +5,6 @@
   width: fit-content;
 }
 
-#panel * {
-  padding: 1em;
-}
-
 .icon {
   display: inline-block;
   height: 1em;
