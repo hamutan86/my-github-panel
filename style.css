@@ -2,6 +2,9 @@
   border: 1px solid gray;
   background-color: #161b22;
   border-radius: 5px;
+}
+
+panel * {
   margin: 1em;
 }
 
