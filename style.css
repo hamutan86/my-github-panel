@@ -5,6 +5,11 @@
   width: fit-content;
 }
 
+#container {
+  margin: auto;
+  padding: 10px;
+}
+
 .icon {
   display: inline-block;
   height: 1em;
