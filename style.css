@@ -12,6 +12,10 @@
   padding-top: 0;
 }
 
+#container * {
+  color: white;
+}
+
 .icon {
   display: inline-block;
   height: 1em;
@@ -19,6 +23,11 @@
   transform: translate(0, 0.1em);
 }
 
-#panel > p{
+#twitter {
+  line-height: normal;
+  text-decoration: none;
+}
+
+#twitter:link, #twitter:visited, #twitter:hover, #twitter:active{
   color: white;
 }
